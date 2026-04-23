@@ -1,3 +1,3 @@
 # EasyEtherwarp
 
-Enable/Disable with /eew!
+Enable/Disable with /eew
